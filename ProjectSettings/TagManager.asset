@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - board
+  - cell
+  - tile
+  - numbers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: board
+    uniqueID: 415684015
+    locked: 0
+  - name: cell
+    uniqueID: 53876873
+    locked: 0
+  - name: nullTile
+    uniqueID: 826562487
+    locked: 0
+  - name: tile
+    uniqueID: 3112494373
+    locked: 0
+  - name: number
+    uniqueID: 1382368757
+    locked: 0
