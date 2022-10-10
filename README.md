@@ -1,1 +1,1 @@
-Eight Puzzle Using Breadth First Search
+Simple Eight Puzzle Game Using Breadth First Search Algorithm
