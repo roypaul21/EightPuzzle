@@ -1,2 +1,3 @@
-Simple Eight Puzzle Game Using Breadth First Search Algorithm
-![8puzzle](https://user-images.githubusercontent.com/79889856/194957726-65e35e79-3fcb-4db6-9d85-9d3cb26961a0.jpg)
+Simple Eight Puzzle Game With Breadth First Search and A Star Algorithm 
+![8Puzzle](https://user-images.githubusercontent.com/79889856/206339996-d99f603e-c417-4fce-b0e5-09bcfdf6a51c.jpg)
+
